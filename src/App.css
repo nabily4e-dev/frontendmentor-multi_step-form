@@ -1,0 +1,10 @@
+/** @format */
+
+.App {
+  box-sizing: border-box;
+  align-items: center;
+  background-color: #bfe2fd;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
